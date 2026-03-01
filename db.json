@@ -1,0 +1,9 @@
+{
+  "Món Chính": [
+    { "id": 1, "name": "Bánh tráng mắm ruốc", "price": 75000, "desc": "Bánh tráng mắm ruốc"},
+    { "id": 2, "name": "Bánh tráng kẹp", "price": 65000, "desc": "Bánh tráng kẹp"},
+    { "id": 3, "name": "Nem nướng", "price": 60000, "desc": "Nem chua nướng"},
+    { "id": 4, "name": "Coca", "price": 10000, "desc": "Coca Cola"},
+    { "id": 5, "name": "Revive", "price":10000, "desc": "Revive"}
+  ]
+}
